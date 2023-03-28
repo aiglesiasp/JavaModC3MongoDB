@@ -1,0 +1,10 @@
+[{
+  "_id": {
+    "$oid": "6422d45b4438f4c11662579f"
+  },
+  "numSerie": "2332",
+  "nombre": "Analisis Forense",
+  "facultad": {
+    "$oid": "6422c5324438f4c116625797"
+  }
+}]

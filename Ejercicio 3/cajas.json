@@ -1,0 +1,11 @@
+[{
+  "_id": {
+    "$oid": "6422bc5d4438f4c11662578d"
+  },
+  "numReferencia": 46789,
+  "contenido": "Calzoncillos",
+  "valor": 200,
+  "almacen": {
+    "$oid": "6422b5bf4438f4c11662578c"
+  }
+}]

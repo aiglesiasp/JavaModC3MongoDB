@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "6666edc13649f6c116634792"
+  },
+  "dni": "22222222",
+  "nomApels": "Antonio Rubian Gonzalez",
+  "dniJefe": {
+    "$oid": "6666edc13649f6c116634792"
+  },
+  "despacho": {
+    "$oid": "6422bef34438f4c116625793"
+  }
+},{
+  "_id": {
+    "$oid": "6422c14c4438f4c116625794"
+  },
+  "dni": "333333333",
+  "nomApels": "Antonio Rubian Gonzalez",
+  "dniJefe": {
+    "$oid": "6666edc13649f6c116634792"
+  },
+  "despacho": {
+    "$oid": "6422bed84438f4c116625792"
+  }
+}]

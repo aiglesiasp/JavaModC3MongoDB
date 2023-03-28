@@ -1,0 +1,11 @@
+[{
+  "_id": {
+    "$oid": "6422b3424438f4c116625788"
+  },
+  "dni": "11122233",
+  "nombre": "Aitor",
+  "apellidos": "Iglesias Pubill",
+  "departamento": {
+    "$oid": "6422aa7f4438f4c116625785"
+  }
+}]

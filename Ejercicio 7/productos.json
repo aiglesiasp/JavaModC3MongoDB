@@ -1,0 +1,8 @@
+[{
+  "_id": {
+    "$oid": "6422d3674438f4c11662579b"
+  },
+  "codigo": 2345,
+  "nombre": "lavadora",
+  "precio": 500
+}]

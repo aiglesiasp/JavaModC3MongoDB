@@ -1,0 +1,11 @@
+[{
+  "_id": {
+    "$oid": "6422b5194438f4c11662578b"
+  },
+  "codigo": 27007,
+  "nombre": "Raton Inalambrico",
+  "precio": 15.95,
+  "fabricante": {
+    "$oid": "6422b5024438f4c11662578a"
+  }
+}]
